@@ -10,7 +10,7 @@
 
 int main(int argc, const char *argv[]) {
 	@autoreleasepool {
-		NSLog(@"ios-command-line-tool");
+		NSLog(@"ios-command-line-tool built by XCode!");
 	}
 	return 0;
 }
